@@ -1,2 +1,2 @@
-# Mod1
+# Module1
 FizzBuzz Project
